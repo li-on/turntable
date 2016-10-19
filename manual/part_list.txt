@@ -28,3 +28,5 @@ Microcontroller - e.g Arduino
 H0 Flex rail 
 4 small nails
 Wires
+Glue
+Sticky foil
